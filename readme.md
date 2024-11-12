@@ -1,2 +1,4 @@
 ## DockerHub Image
-![DockerHub Image](Screenshot Workflow.png)
+The following image shows the successful push of the Docker image to DockerHub:
+
+![DockerHub Image](screenshots/dockerhub.png)
